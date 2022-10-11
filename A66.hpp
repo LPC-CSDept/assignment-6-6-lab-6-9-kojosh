@@ -12,7 +12,7 @@ void getInput(int& a, int& b, int& c)
 }
 
 // complete the function maxmin( )
-void maxmin(int A, int B, int C, int& min, int& max)
+void maxmin(int A, int B, int C, int& max, int& min)
 {
 
     for (int i = 0; i < 3; i++) {
